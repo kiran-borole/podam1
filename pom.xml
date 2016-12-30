@@ -511,13 +511,13 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	<repositories>
+	<!--repositories>
     		<repository>
       			<id>eclipse-repo1</id>
       			<name>eclipse custom repo</name>
       			<url>https://repo.eclipse.org/content/groups/releases/</url>
     		</repository>
-	</repositories>	
+	</repositories-->	
 	<profiles>
 		<profile>
 			<id>doclint-java8</id>
